@@ -3,7 +3,7 @@ import google.generativeai as genai
 import requests
 
 # --- الإعدادات الأساسية (املا بياناتك هنا) ---
-GEMINI_KEY = "AIzaSyBkVyYT-2ppw9IQgbWqxKqrO3-wTAv0CB0"
+GEMINI_KEY = "AIzaSyDr2pI_9-eSfRiEBFnUyJEFnSbOd0FEMxc"
 TELEGRAM_TOKEN = "8661222733:AAFuSvSslYseY6LE8MC-S72UGuWxwlAatGk"
 CHAT_ID = "8484233133"
 
